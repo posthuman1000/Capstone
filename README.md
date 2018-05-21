@@ -1,2 +1,2 @@
 # Capstone
-Capstone project for codecademy introduction to data analysis
+Capstone Option 2: Biodiversity for the National Parks - Codecademy Introduction to Data Analysis 
